@@ -5,6 +5,12 @@
 
 A Streamlit web app that lets you upload a CSV dataset and ask questions about it using natural language. Powered by LangChain's Pandas DataFrame Agent and OpenAI.
 
+# Demo
+
+
+https://github.com/user-attachments/assets/8cf43f58-a158-4c80-a8eb-d1cef2db33d3
+
+
 ## Prerequisites
 
 - Python 3.11+
